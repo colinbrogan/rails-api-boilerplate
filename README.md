@@ -33,6 +33,10 @@ For other classes:
 
     {data: ...}
 
+or, if you set :success => :resource option then
+
+    {success: boolean}
+
 Both of this may include optional parameters:
 
 * boolean success
