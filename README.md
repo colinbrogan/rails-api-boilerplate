@@ -1,18 +1,17 @@
 Rails HTTP REST API service boilerplate
-=======================================
+---------------------------------------
 
 Installation
 ------------
 
 1. Fork it.
 
-2. Clone it to your local machine:
-
-    git clone
+2. Clone it to your local machine.
 
 3. Install dependencies:
 
     bundle install
+
     rbenv rehash
 
 4. Set a secret token for your app. Replace "CHANGE_ME" in ./config/initializers/secret_token.rb to a random string:
